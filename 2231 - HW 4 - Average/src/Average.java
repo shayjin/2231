@@ -1,7 +1,7 @@
 /**
  * Put a short phrase describing the program here.
  *
- * @author Put your name here
+ * @author Jay Shin
  *
  */
 public final class Average {
