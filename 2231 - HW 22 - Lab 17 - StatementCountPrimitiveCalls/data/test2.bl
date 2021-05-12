@@ -1,0 +1,8 @@
+WHILE true DO
+  look-for-something
+  infect
+  infect
+  skip
+  move
+END WHILE
+ 
