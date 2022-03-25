@@ -7,7 +7,7 @@ Contributors:
 - Jay Shin (shin.810@osu.edu)
 
 
-- James Roski (roski.1.@osu.edu
+- James Roski (roski.1.@osu.edu)
 
 
 Instructor:
