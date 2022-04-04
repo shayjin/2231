@@ -1,5 +1,6 @@
 # cse2231
-The Ohio State University CSE 2231 (Software 2: Software Development and Designs) Assignments
+
+CSE 2231 (Software 2: Software Development and Designs) Assignments
 
 Contributors:
 
