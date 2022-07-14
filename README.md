@@ -1,16 +1,13 @@
-# cse2231
+# CSE 2231
 
-CSE 2231 (Software 2: Software Development and Designs) Assignments
+The Ohio State University CSE 2231 (Software 2: Software Development and Designs)
 
-Contributors:
-
-
+## Tools:
+* Java, [OSU CSE Components](http://web.cse.ohio-state.edu/software/common/doc/)
+* Eclipse
+## Contributors:
 - Jay Shin (shin.810@osu.edu)
-
-
 - James Roski (roski.1.@osu.edu)
 
-
-Instructor:
-
-- Wayne Heym
+## Instructor:
+- [Wayne Heym](https://cse.osu.edu/people/heym.1) (heym.1@osu.edu)
