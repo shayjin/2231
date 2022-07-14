@@ -1,6 +1,6 @@
 # CSE 2231
 
-The Ohio State University CSE 2231 (Software 2: Software Development and Designs)
+The Ohio State University CSE 2231 (Software II: Software Development and Designs)
 
 ## Tools:
 * Java, [OSU CSE Components](http://web.cse.ohio-state.edu/software/common/doc/)
